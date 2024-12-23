@@ -5,7 +5,7 @@
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Gopal1tayade/onlinelibrarysystem.git
+    https://github.com/Gopal1tayade/onlinelibrarysystem.git
     ```
 2. Navigate to the project directory:
     ```bash
